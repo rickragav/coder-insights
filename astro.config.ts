@@ -6,8 +6,10 @@ import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
 
-// https://astro.build/config
 // https://elazizi.com/
+import vercel from "@astrojs/vercel/static";
+
+// https://astro.build/config
 export default defineConfig({
   site: SITE.website,
   integrations: [
@@ -38,4 +40,6 @@ export default defineConfig({
     },
   },
   scopedStyleStrategy: "where",
+  output: "server",
+  adapter: vercel(),
 });

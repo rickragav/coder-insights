@@ -1,36 +1,22 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Who Am I"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+As a `Full-Stack Developer`, my days surrounded by code, thinking about how to build and improve software systems. I enjoy the challenge of solving tricky programming problems and making things work seamlessly. When I'm not in front of the screen, you might catch me on tech platforms, contributing to [open source projects](https://github.com/rickragav).
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## What You'll Find Here:
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+At `CoderInsights`, we dive deep into the nuances of system design and core programming concepts. From architecting scalable systems to decoding algorithms, this space is a haven for tech enthusiasts and aspiring software engineers. Expect detailed guides, hands-on tutorials, and insights drawn from real-world experiences.
 
-## Features
+## Why I Started This Blog:
 
-Here are certain features of this site.
+The world of software development is ever-evolving, and my journey has been one of constant learning and growth. I started this blog as a way to document my exploration of `system design` and `core programming`, sharing my experiences, challenges, and solutions. My goal is to foster a community of like-minded individuals who are as passionate about code craftsmanship as I am.
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## Let's Connect:
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+I thrive on the exchange of ideas and learning from the community. Your questions, comments, and insights are not just welcome but encouraged. Feel free to connect with me on [mail](mailto:rickragav4075@gmail.com), [LinkedIn](https://www.linkedin.com/in/rickragav), or [GitHub](https://github.com/rickragav), and let's build a vibrant community of tech enthusiasts.

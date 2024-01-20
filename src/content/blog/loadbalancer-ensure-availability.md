@@ -1,7 +1,7 @@
 ---
 author: Rakesh
-pubDatetime: 2024-01-17T05:44:51.186Z
-modDatetime: 2024-01-17T05:44:51.186Z
+pubDatetime: 2024-01-20T06:14:22.555Z
+modDatetime: 2024-01-20T06:14:22.555Z
 title: "How Load Balancers Ensure Scalability, Availability, and Reliability: The Traffic Cop of the Internet"
 slug: loadbalancer-ensure-availability
 featured: true

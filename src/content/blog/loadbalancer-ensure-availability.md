@@ -8,6 +8,8 @@ featured: true
 draft: false
 tags:
   - system design
+  - load balancer
+ogImage: "/loadbalancer-traffic-cop.jpeg"
 description: "Meet the digital traffic cop – Load Balancer. Ensuring seamless online journeys by distributing traffic, preventing congestion, and enhancing website scalability, availability, and reliability."
 ---
 

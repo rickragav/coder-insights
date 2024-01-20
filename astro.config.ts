@@ -7,6 +7,7 @@ import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
 
 // https://astro.build/config
+// https://elazizi.com/
 export default defineConfig({
   site: SITE.website,
   integrations: [

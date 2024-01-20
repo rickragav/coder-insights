@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://toolnest.fun/", // replace this with your deployed domain
+  website: "https://www.coderinsights.in/", // replace this with your deployed domain
   author: "Rakesh",
   desc: "At CoderInsights, we dive deep into the nuances of system design and core programming concepts. From architecting scalable systems to decoding algorithms, this space is a haven for tech enthusiasts and aspiring software engineers. Expect detailed guides, hands-on tutorials, and insights drawn from real-world experiences.",
   title: "CoderInsights",
